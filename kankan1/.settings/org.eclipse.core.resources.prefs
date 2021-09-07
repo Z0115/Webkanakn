@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/java/interfaces/information.java=UTF-8
+encoding//src/com/java/interfaces/userInterface.java=UTF-8
+encoding//src/com/java/servise/UserServise.java=UTF-8
+encoding//src/com/java/servlet/collectionServlet.java=UTF-8
+encoding//src/com/java/servlet/idcardServlet.java=UTF-8
+encoding//src/com/java/servlet/informationServlet.java=utf-8
+encoding//src/com/java/servlet/loginServlet.java=UTF-8
+encoding//src/com/java/servlet/passwordServlet.java=UTF-8
+encoding//src/com/java/servlet/safetyServlet.java=UTF-8
+encoding//src/com/java/servlet/userInfo.java=UTF-8
+encoding/<project>=UTF-8

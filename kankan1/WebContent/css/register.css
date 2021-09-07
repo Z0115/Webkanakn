@@ -1,0 +1,78 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+ul,ol,li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+#content{
+	width: 100%;
+    height: 100%;
+   background-color:#fd7a72;
+   overflow: hidden;
+}
+
+.login{
+	width: 300px;
+	height: 350px;
+	text-align: center;
+	background-color: white;
+	margin-top: 30px;
+}
+.content-left{
+	float: left;
+	margin-left: 10%;
+}
+
+.username,.userpwd{
+	width: 250px;
+	height: 30px;
+}
+
+.login-button{
+	width: 250px;
+	height: 30px;
+	color: white;
+	background-color: blue;
+}
+
+.zhuche{
+	font-size: 12px;
+	color: black;
+	
+	background-color: lightgray;
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+
+	margin-left: 30px;
+	margin-top: 12px;
+	overflow: hidden;
+}
+
+.login-titles{
+	font-size: 24px;
+	margin-left:80px ;
+}
+
+.login-title{
+	width: 300px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.zhuche,.login-titles{
+		float: left;
+}
+
+
+
+
